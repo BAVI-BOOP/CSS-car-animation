@@ -2,6 +2,7 @@ const body = document.querySelector("body");
 const car = document.querySelector(".car");
 const ground = document.querySelector(".ground");
 
+
 const carImg = document.querySelector(".car img");
 let flag = true;
 
